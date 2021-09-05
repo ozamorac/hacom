@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "mongodbDatabase",
+    "type": "java.lang.String",
+    "description": "A description for 'mongodbDatabase'"
+  },
+  {
+    "name": "mongodbUri",
+    "type": "java.lang.String",
+    "description": "A description for 'mongodbUri'"
+  },
+  {
+    "name": "variables.api-port",
+    "type": "java.lang.String",
+    "description": "A description for 'variables.api-port'"
+  },
+  {
+    "name": "mongoDB.mongodb-database",
+    "type": "java.lang.String",
+    "description": "A description for 'mongoDB.mongodb-database'"
+  },
+  {
+    "name": "mongoDB.mongodbUri",
+    "type": "java.lang.String",
+    "description": "A description for 'mongoDB.mongodbUri'"
+  },
+  {
+    "name": "server.contextPath",
+    "type": "java.lang.String",
+    "description": "A description for 'server.contextPath'"
+  }
+]}

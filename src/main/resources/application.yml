@@ -1,0 +1,1 @@
+server:  port: 8080  servlet:    contextPath: /apimanagement:  endpoints:    web:      exposure:        include:        - '*'  endpoint:    metrics:      enabled: truemongodbDatabase: exampleDb mongodbUri: "mongodb://127.0.0.1:27017" variables:  apiPort: 9898#spring:#  data:#    mongodb:#      host: localhost#      port: 27017#      database: exampleDb
